@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kefi Moetaz  
 
-💻 **Computer Science Practitioner** passionate about solving real-world problems through **Web Development, AI/ML, and Game Developmenrt**.  
+💻 **Computer Science Practitioner** passionate about solving real-world problems through **Web Development, AI/ML, and Game Development**.  
 
 ---
 
