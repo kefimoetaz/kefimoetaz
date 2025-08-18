@@ -67,13 +67,7 @@
 - **BlockCraft** – Minecraft-inspired voxel game using Java & LWJGL.  
 - **3D Trail Exploration** – Hiking explorer with WebXR and Three.js.  
 
----
-### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kefimoetaz&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kefimoetaz&layout=compact&theme=tokyonight" width="48%"/>
-</p>
 
 
 ## 📜 Certifications  
