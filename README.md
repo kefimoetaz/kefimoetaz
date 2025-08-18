@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Kefi Moetaz  
 
 💻 **Computer Science Practitioner** passionate about solving real-world problems through **Web Development, AI/ML, and Game Development**.  
-🎯 Currently pursuing a **Bachelor’s Degree in Computer Science** at the Faculty of Sciences of Gafsa (2023 – 2026).  
 
 ---
 
@@ -69,6 +68,13 @@
 - **3D Trail Exploration** – Hiking explorer with WebXR and Three.js.  
 
 ---
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kefimoetaz&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kefimoetaz&layout=compact&theme=tokyonight" width="48%"/>
+</p>
+
 
 ## 📜 Certifications  
 - 🛡️ **Certified Ethical Hacker (CEH)** – Ethical hacking, penetration testing, and vulnerability assessment.  
