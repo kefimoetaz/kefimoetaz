@@ -87,3 +87,8 @@
 ## 🌐 Let's Connect!  
 📧 Email: **kefiimoetaz@gmail.com**  
 💼 [LinkedIn](https://www.linkedin.com/in/kefimoetaz) · 🖥️ [Portfolio](https://my-portfolio-nine-tawny-12.vercel.app)  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
