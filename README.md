@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://github.com/your-username/your-repo/blob/main/assets/neon-banner.gif" width="100%" />
+  <a href="https://youtu.be/your-video-id" target="_blank">
+    <img src="https://img.youtube.com/vi/your-video-id/maxresdefault.jpg" width="100%" />
+  </a>
 </p>
-
-
 
 
 ## 🚀 About Me  
