@@ -1,8 +1,3 @@
-<!-- 🚀 NEON Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:ff00ff" />
-</p>
-
 <!-- ⚡ Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2500&pause=1000&color=00FFFF&center=true&vCenter=true&repeat=true&width=700&lines=⚡+Fullstack+Developer;🤖+AI+%26+Machine+Learning;🎮+Game+Developer" />
@@ -109,7 +104,3 @@
   <img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="100%" />
 </p>
 
-<!-- ⚡ Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:00ffff,100:ff00ff&section=footer" />
-</p>
