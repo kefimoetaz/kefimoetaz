@@ -109,15 +109,6 @@
 <p align="center">
   <img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="100%" />
 </p>
-<p align="center">
-  <img src="https://media.giphy.com/media/l0ExvMqtn4I7a7zLW/giphy.gif" width="700" />
-</p>
-<p align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="100%" />
-</p>
-<p align="center">
-  <img src="https://media.giphy.com/media/oEI9uBYSzLpBK/giphy.gif" width="800" />
-</p>
 
 <!-- ⚡ Footer -->
 <p align="center">
