@@ -7,7 +7,7 @@
 ## 🚀 About Me
 - 🌍 Based in **Tunisia**  
 - 📧 Reach me at: **kefiimoetaz@gmail.com**  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/kefimoetaz) ·[Portfolio](kefimoetaz-eta.vercel.app)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/kefimoetaz) · [Portfolio](kefimoetaz-eta.vercel.app)  
 
 ---
 
@@ -53,27 +53,39 @@
 ## 📂 Featured Projects  
 
 ### 🌐 Web Development  
-- [CycleSphere](https://github.com/kefimoetaz) – Cycling platform with route tracking, weather updates & community features.  
+- [CycleSphere](#) – Cycling platform with route tracking, weather updates & community features.  
 - [Web Chess Game](#) – Multiplayer chess with React, TypeScript, and WebSockets.  
+- [Daily Routine](#) – Task management app with scheduling & PDF export.  
 - [Coffee Shop Website](#) – Online ordering system with Node.js & Express.  
+- [Face of Fame](#) – Social influencer simulator using WebRTC & MediaPipe.  
+- [The Rise and Fall of Carthage](#) – Immersive web experience chronicling the history of ancient Carthage.  
 
 ### 🤖 AI & Machine Learning  
 - **AI-Powered Computer Vision System** – Real-time YOLOv8 detection with 95%+ accuracy.  
-- **Lucy AI Assistant** – Cyberpunk-themed chatbot with voice interaction.  
 - **Mori Buntarou Chatbot** – Manga-inspired LLM chatbot built with Streamlit.  
+- **Jmal – Ancient Desert Wanderer** – Story-driven conversational AI with emotional depth.  
+- **Lucy AI Assistant** – Cyberpunk-themed chatbot with voice interaction.  
+- **Hannibal Strategic Chatbot** – Ancient military strategy transformed into modern counsel.  
+- **OwlMind – AI Study Assistant** – AI-powered summaries, flashcards & quizzes.  
 
 ### 🎮 Game Development  
 - **Dino Dash Deluxe** – 2D platformer with physics & day/night cycles.  
 - **BlockCraft** – Minecraft-inspired voxel game using Java & LWJGL.  
-- **3D Trail Exploration** – Hiking explorer with WebXR and Three.js.  
+- **3D Trail Exploration** – Hiking explorer with WebXR & Three.js.  
+- **Chess Game with AI** – Python chess with AI opponent & GUI.  
+- **3D Tic-Tac-Toe Cube** – Neon Three.js game with AI & 49 winning combinations.  
 
+### 🛠️ Tools & Utilities  
+- **Professional Toner Stock System** – Inventory desktop app with Tkinter, Pandas & ReportLab.  
+- **PC Technician Assistant** – Windows utility for system scanning & automation.  
 
-
+---
 
 ## 📜 Certifications  
-- 🛡️ **Certified Ethical Hacker (CEH)** – Ethical hacking, penetration testing, and vulnerability assessment.  
-- 🐍 **Python Essentials 1** – Core Python concepts including OOP, loops, and functions.  
+- 🛡️ **Certified Ethical Hacker (CEH)** – Penetration testing, vulnerability assessment, and network security.  
+- 🐍 **Python Essentials** – Core Python concepts including OOP, loops, and functions.  
 - ☁️ **AWS Certified Machine Learning – Specialty** – ML model training & deployment with SageMaker, S3, and Lambda.  
+- ⚡ **JavaScript Essentials** – Core JavaScript programming (DOM, loops, functions, problem solving).  
 
 ---
 
@@ -87,4 +99,3 @@
 ## 🌐 Let's Connect!  
 📧 Email: **kefiimoetaz@gmail.com**  
 💼 [LinkedIn](https://www.linkedin.com/in/kefimoetaz) · 🖥️ [Portfolio](kefimoetaz-eta.vercel.app)  
-
