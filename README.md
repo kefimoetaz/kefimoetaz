@@ -1,81 +1,70 @@
-<!-- Banner -->
+<!-- 🔥 3D Banner with Dragon Flame Colors -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=38B2AC&height=200&section=header&text=Kefi%20Moetaz&fontSize=60&fontColor=fff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&height=300&color=0:ff0000,100:ffae00&text=🐉%20Kefi%20Moetaz%20🐉&fontSize=65&fontAlignY=40&desc=Forging%20Code%20Like%20Dragon%20Fire&descSize=20&animation=twinkling&fontColor=ffffff" />
 </p>
 
-<h2 align="center">👨‍💻 Computer Science Practitioner | 🌐 Web Dev | 🤖 AI/ML | 🎮 Game Dev</h2>
-
+<!-- Typing Animation -->
 <p align="center">
-  <a href="mailto:kefiimoetaz@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/kefimoetaz"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://kefimoetaz-eta.vercel.app"><img src="https://img.shields.io/badge/Portfolio-38B2AC?style=for-the-badge&logo=vercel&logoColor=white"></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=4000&color=FF4500&center=true&vCenter=true&lines=🔥+Web+Developer;🐉+AI+Engineer;⚔️+Game+Creator;🚀+Problem+Solver" />
 </p>
 
 ---
 
-## ✨ About Me  
-💡 Passionate about **solving real-world problems** with **technology & creativity**  
-🌍 Based in **Tunisia**  
-📫 Reach me at: **kefiimoetaz@gmail.com**  
+## 🐲 About Me  
+🔥 I code with the intensity of a **dragon’s flame**  
+🌍 From **Tunisia** to the **world**  
+⚔️ I craft **Web Experiences, AI Systems, and Games** that roar  
 
 ---
 
-## 🛠️ Tech Arsenal  
+## 🛠️ Tech Arsenal (Dragon Forged Weapons)  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,java,html,css,react,nextjs,tailwind,nodejs,express,mongodb,aws,docker,opencv,tensorflow,pytorch,threejs&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,java,html,css,react,nextjs,tailwind,nodejs,express,mongodb,aws,docker,opencv,tensorflow,pytorch,threejs&perline=10" />
 </p>
 
 ---
 
-## 📂 Featured Projects  
+## 🐉 Featured Projects (Dragon Scrolls)  
 
 ### 🌐 Web Development  
-- 🚴‍♂️ **CycleSphere** – Route tracking, weather updates & community  
-- ♟️ **Web Chess Game** – Multiplayer chess (React, TS, WebSockets)  
-- ☕ **Coffee Shop Website** – Online ordering (Node.js, Express)  
-- 🎭 **Face of Fame** – Social influencer simulator (WebRTC, MediaPipe)  
+🔥 **CycleSphere** – Ride-tracking & weather prophecy  
+🔥 **Web Chess Game** – Real-time multiplayer strategy  
+🔥 **The Rise and Fall of Carthage** – Immersive history saga  
 
 ### 🤖 AI & Machine Learning  
-- 🔍 **AI-Powered Computer Vision** – Real-time YOLOv8 detection (95%+)  
-- 🤖 **Lucy AI Assistant** – Cyberpunk chatbot with **voice interaction**  
-- 📚 **OwlMind** – AI study assistant (summaries, flashcards, quizzes)  
+🐲 **AI-Powered Computer Vision** – Eyes of the Dragon (YOLOv8, 95%+)  
+🐲 **Lucy AI Assistant** – Cyberpunk oracle with voice  
+🐲 **OwlMind** – Wisdom keeper for students  
 
 ### 🎮 Game Development  
-- 🦖 **Dino Dash Deluxe** – 2D platformer with physics & day/night cycles  
-- 🧱 **BlockCraft** – Minecraft-inspired voxel game (Java & LWJGL)  
-- 🎲 **3D Tic-Tac-Toe Cube** – Neon Three.js game with AI  
-
-### 🛠️ Tools & Utilities  
-- 📊 **Professional Toner Stock System** – Desktop inventory manager (Tkinter, Pandas, ReportLab)  
-- 🖥️ **PC Technician Assistant** – Windows automation utility  
+⚔️ **Dino Dash Deluxe** – Platformer forged in dragon fire  
+⚔️ **BlockCraft** – Voxel worlds of infinite creation  
+⚔️ **3D Tic-Tac-Toe Cube** – Neon battlefield in 3D  
 
 ---
 
-## 🏅 Certifications  
+## 🏆 Dragon Seals (Certifications)  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Certified%20Ethical%20Hacker-EC--Council-red?style=for-the-badge&logo=hackaday&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS%20Machine%20Learning-Specialty-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-Essentials-blue?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-Essentials-yellow?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Certified%20Ethical%20Hacker-🔥-red?style=for-the-badge&logo=hackaday&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS%20ML%20Specialty-⚡-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python%20Essentials-🐍-blue?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript%20Essentials-⚔️-yellow?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 Dragon Power Levels  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kefimoetaz&show_icons=true&theme=radical" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kefimoetaz&layout=compact&theme=radical" height="180em"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=kefimoetaz&theme=radical&hide_border=true" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kefimoetaz&show_icons=true&theme=tokyonight&title_color=FF4500&icon_color=FFAE00" height="180em"/>
+  <img src="https://streak-stats.demolab.com?user=kefimoetaz&theme=dragon&fire=FF4500&ring=FFAE00&currStreakLabel=FF4500" height="180em"/>
 </p>
 
 ---
 
+<!-- 🔥 Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=38B2AC&height=150&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&height=200&color=0:ff4500,100:ffae00&section=footer&text=🔥%20Unleash%20the%20Dragon%20in%20Code%20🔥&fontSize=30&fontColor=ffffff" />
 </p>
