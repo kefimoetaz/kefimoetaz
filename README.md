@@ -1,12 +1,7 @@
-<!-- 🚀 NEON Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:ff00ff,100:00ffff&text=⚡%20Fullstack%20Developer%20⚡&fontSize=50&fontAlignY=38&animation=fadeIn&fontColor=ffffff" />
+  <img src="https://github.com/your-username/your-repo/blob/main/assets/neon-banner.gif" width="100%" />
 </p>
 
-<!-- ⚡ Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2500&pause=1000&color=00FFFF&center=true&vCenter=true&repeat=true&width=700&lines=⚡+Fullstack+Developer;🤖+AI+%26+Machine+Learning;🎮+Game+Developer" />
-</p>
 
 
 
