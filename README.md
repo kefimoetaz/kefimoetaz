@@ -18,27 +18,45 @@
 
 ---
 
-## 🛠️ Tech Stack (Organized Neon Arsenal)  
+## 🛠️ Tech Stack (Neon Arsenal)  
 
-**💻 Languages**  
-`Python` · `JavaScript` · `TypeScript` · `Java` · `HTML5` · `CSS3`
+### 💻 Languages  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,java,html,css&theme=dark" />
+</p>
 
-**🎨 Frontend**  
-`React` · `Next.js` · `Tailwind CSS`  
+### 🎨 Frontend  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" />
+</p>
 
-**🛠️ Backend & Databases**  
-`Node.js` · `Express.js` · `MongoDB`  
+### 🛠️ Backend & Databases  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" />
+</p>
 
-**🤖 AI & ML**  
-`TensorFlow` · `PyTorch` · `YOLOv8` · `OpenCV`  
+### 🤖 AI & ML  
+<p align="left">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=opencv&logoColor=black"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+</p>
 
-**🎮 Game Development**  
-`LWJGL` · `Three.js` · `WebXR`  
+### 🎮 Game Development  
+<p align="left">
+  <img src="https://img.shields.io/badge/LWJGL-000000?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WebXR-FF61F6?style=for-the-badge&logo=web&logoColor=white"/>
+</p>
 
-**⚙️ Tools & Platforms**  
-`Streamlit` · `Tkinter` · `Docker` · `AWS`  
-
----
+### ⚙️ Tools & Platforms  
+<p align="left">
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tkinter-FFDA44?style=for-the-badge&logo=python&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</p>
 
 ## 🌐 Featured Projects  
 
