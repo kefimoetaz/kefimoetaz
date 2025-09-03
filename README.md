@@ -1,7 +1,11 @@
+<!-- 🚀 NEON Banner -->
 <p align="center">
-  <a href="https://youtu.be/your-video-id" target="_blank">
-    <img src="https://img.youtube.com/vi/your-video-id/maxresdefault.jpg" width="100%" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:ff00ff" />
+</p>
+
+<!-- ⚡ Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2500&pause=1000&color=00FFFF&center=true&vCenter=true&repeat=true&width=700&lines=⚡+Fullstack+Developer;🤖+AI+%26+Machine+Learning;🎮+Game+Developer" />
 </p>
 
 
