@@ -90,7 +90,7 @@
 
 ---
 
-## 📊 Neon GitHub Stats  
+## 📊 GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kefimoetaz&show_icons=true&theme=radical&title_color=00FFFF&icon_color=FF00FF&text_color=FFFFFF&bg_color=000000" height="180em"/>
@@ -106,6 +106,15 @@
 </p>
 
 ---
+<p align="center">
+  <img src="https://media.giphy.com/media/KcZllfZ6n9bLU/giphy.gif" width="600" />
+</p>
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="600"/>
+</p>
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="100%" />
+</p>
 
 <!-- ⚡ Footer -->
 <p align="center">
