@@ -18,7 +18,7 @@
 
 ---
 
-## 🛠️ Tech Stack (Neon Arsenal)  
+## 🛠️ Tech Stack   
 
 ### 💻 Languages  
 <p align="left">
