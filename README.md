@@ -10,7 +10,7 @@
 
 ## [📄 View My CV](https://drive.google.com/drive/folders/1AMTCgx7Ho2fg1fx2hLfyJClZLGpACXZa)
 
-## [🌐 My Portfolio](kefimoetaz-eta.vercel.app)
+## [🌐 My Portfolio](https://kefimoetaz-eta.vercel.app)
 
 ---
   <p align="left">
