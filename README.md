@@ -4,12 +4,29 @@
 </p>
 
 
-### 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=github)](https://yourportfolio.com)  
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/yourphonenumber)  
+  <p align="left">
+      <img src="https://komarev.com/ghpvc/?username=a-hemeda&style=flat&color=4010B0"/> <!-- Profile Views -->
+  </p>
+
+## [📄 View My CV](https://drive.google.com/file/d/1W272WvN9JqHiff2Bvp5UbXC-m9BobH16/view?usp=drivesdk)
+
+## [🌐 My Portfolio](https://a-hemeda.github.io/Portfolio/)
 
 ---
+  <p align="left">
+    <a href="mailto:7hemeda@gmail.com"> <!-- Gmail -->
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" height="43"/>
+    </a> &nbsp; &nbsp;
+    <a href="https://www.linkedin.com/in/a-hemeda"> <!-- LinkedIn Profile -->
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="53"/>
+    </a> &nbsp; &nbsp;
+    <a href="https://codeforces.com/profile/11Hemeda"> <!-- Codeforces Profile -->
+      <img src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-logo-icon-svg-download-png-2944796.png" height="53"/>
+    </a> &nbsp;
+    <a href="https://leetcode.com/u/A-Hemeda/"> <!-- LeetCode Profile -->
+      <img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" height="50"/>
+    </a>
+  </p>
 
 
 ## 🛠️ Tech Stack   
